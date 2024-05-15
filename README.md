@@ -1,2 +1,2 @@
-# feature-branches-btw
+# feature-branches-ftw
 It's a demo about using feature-branches
